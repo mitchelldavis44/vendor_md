@@ -1,0 +1,5 @@
+add_lunch_combo md_emulator-eng
+add_lunch_combo md_grouper-user
+add_lunch_combo md_hammerhead-user
+add_lunch_combo md_manta-user
+add_lunch_combo md_shamu-user
